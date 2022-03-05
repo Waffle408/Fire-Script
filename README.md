@@ -13,7 +13,15 @@
     then it sends that data to the person with the lowest id that is a firie and syncs the fires. was the easiest way to do it.
 
 
-    Feel free to check out my other random shit, most of the time i dont make scripts and just fix them but i am working on something so check arounf i guess. if you need quick bug fixes contact me on discord i guess, Waffle406#9816.
+
+
+
+
+
+
+
+
+Feel free to check out my other random shit, most of the time i dont make scripts and just fix them but i am working on something so check arounf i guess. if you need quick bug fixes contact me on discord i guess, Waffle406#9816.
 
 
 
