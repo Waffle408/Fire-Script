@@ -12,6 +12,8 @@
     it chooses a number between 1 and 16 which are the location (i know there are better ways to code the location choosing but it wasnt working properly for some weird reason if you want to make it less complicated than feel free to fork it :D)
     then it sends that data to the person with the lowest id that is a firie and syncs the fires. was the easiest way to do it.
 
+    edit: forgot to say it dispatches using CD Dispatch which you can change in server.lua line 131
+
 
 
 
